@@ -4,4 +4,5 @@
 - CSS
   - Flexbox
 - Java Script
+  - es 6
 - Typescript
