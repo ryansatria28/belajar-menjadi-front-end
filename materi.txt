@@ -3,5 +3,5 @@
   - HTML 5
 - CSS
   - Flexbox
-  - Grid
 - Java Script
+- Typescript
